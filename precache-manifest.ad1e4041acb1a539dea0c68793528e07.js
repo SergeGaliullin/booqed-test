@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9491fde5fe6aa2c746a43f29944dc1c",
+    "revision": "dc3cdaea43de91972c90e4a3f11fe862",
     "url": "/booqed-test/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/booqed-test/static/css/2.a5ccf005.chunk.css"
   },
   {
-    "revision": "2653d33d3d6cf30cd8f1",
+    "revision": "313882e1071019366b16",
     "url": "/booqed-test/static/css/main.cc0d7a22.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/booqed-test/static/js/2.0551fb1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2653d33d3d6cf30cd8f1",
-    "url": "/booqed-test/static/js/main.55af1400.chunk.js"
+    "revision": "313882e1071019366b16",
+    "url": "/booqed-test/static/js/main.10a5de25.chunk.js"
   },
   {
     "revision": "f801e6d744e07931b3dc",
