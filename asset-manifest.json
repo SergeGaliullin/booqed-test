@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/booqed-test/static/css/main.cc0d7a22.chunk.css",
+    "main.js": "/booqed-test/static/js/main.d1882fc4.chunk.js",
+    "main.js.map": "/booqed-test/static/js/main.d1882fc4.chunk.js.map",
+    "runtime-main.js": "/booqed-test/static/js/runtime-main.04a9ed6a.js",
+    "runtime-main.js.map": "/booqed-test/static/js/runtime-main.04a9ed6a.js.map",
+    "static/css/2.a5ccf005.chunk.css": "/booqed-test/static/css/2.a5ccf005.chunk.css",
+    "static/js/2.0551fb1a.chunk.js": "/booqed-test/static/js/2.0551fb1a.chunk.js",
+    "static/js/2.0551fb1a.chunk.js.map": "/booqed-test/static/js/2.0551fb1a.chunk.js.map",
+    "index.html": "/booqed-test/index.html",
+    "precache-manifest.be4e3171b4ed8c6524cbbfec1305ec3b.js": "/booqed-test/precache-manifest.be4e3171b4ed8c6524cbbfec1305ec3b.js",
+    "service-worker.js": "/booqed-test/service-worker.js",
+    "static/css/2.a5ccf005.chunk.css.map": "/booqed-test/static/css/2.a5ccf005.chunk.css.map",
+    "static/css/main.cc0d7a22.chunk.css.map": "/booqed-test/static/css/main.cc0d7a22.chunk.css.map",
+    "static/js/2.0551fb1a.chunk.js.LICENSE.txt": "/booqed-test/static/js/2.0551fb1a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/booqed-test/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04a9ed6a.js",
+    "static/css/2.a5ccf005.chunk.css",
+    "static/js/2.0551fb1a.chunk.js",
+    "static/css/main.cc0d7a22.chunk.css",
+    "static/js/main.d1882fc4.chunk.js"
+  ]
+}
