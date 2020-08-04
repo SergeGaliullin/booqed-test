@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/booqed-test/static/css/main.cc0d7a22.chunk.css",
-    "main.js": "/booqed-test/static/js/main.10a5de25.chunk.js",
-    "main.js.map": "/booqed-test/static/js/main.10a5de25.chunk.js.map",
+    "main.js": "/booqed-test/static/js/main.340daaac.chunk.js",
+    "main.js.map": "/booqed-test/static/js/main.340daaac.chunk.js.map",
     "runtime-main.js": "/booqed-test/static/js/runtime-main.04a9ed6a.js",
     "runtime-main.js.map": "/booqed-test/static/js/runtime-main.04a9ed6a.js.map",
     "static/css/2.a5ccf005.chunk.css": "/booqed-test/static/css/2.a5ccf005.chunk.css",
     "static/js/2.0551fb1a.chunk.js": "/booqed-test/static/js/2.0551fb1a.chunk.js",
     "static/js/2.0551fb1a.chunk.js.map": "/booqed-test/static/js/2.0551fb1a.chunk.js.map",
     "index.html": "/booqed-test/index.html",
-    "precache-manifest.ad1e4041acb1a539dea0c68793528e07.js": "/booqed-test/precache-manifest.ad1e4041acb1a539dea0c68793528e07.js",
+    "precache-manifest.2691fb31be40a4784ab81f30286c45aa.js": "/booqed-test/precache-manifest.2691fb31be40a4784ab81f30286c45aa.js",
     "service-worker.js": "/booqed-test/service-worker.js",
     "static/css/2.a5ccf005.chunk.css.map": "/booqed-test/static/css/2.a5ccf005.chunk.css.map",
     "static/css/main.cc0d7a22.chunk.css.map": "/booqed-test/static/css/main.cc0d7a22.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.a5ccf005.chunk.css",
     "static/js/2.0551fb1a.chunk.js",
     "static/css/main.cc0d7a22.chunk.css",
-    "static/js/main.10a5de25.chunk.js"
+    "static/js/main.340daaac.chunk.js"
   ]
 }
